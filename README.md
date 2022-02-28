@@ -1,2 +1,2 @@
-# csc@f-A6
+# csc2f-A6
 Assignment 6. see brief.
